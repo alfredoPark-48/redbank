@@ -1,0 +1,41 @@
+{
+    "name": "Ammper Bank",
+    "short_name": "AmmperBank",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#e62222",
+    "theme_color": "#e62243",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/icons/bank-3-128.png",
+            "type": "/img/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/icons/bank-3-64.png",
+            "type": "/img/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "/img/icons/bank-3-48.png",
+            "type": "/img/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/img/icons/bank-3-32.png",
+            "type": "/img/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "/img/icons/bank-3-24.png",
+            "type": "/img/png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "/img/icons/bank-3-16.png",
+            "type": "/img/png",
+            "sizes": "16x16"
+        }
+    ]
+}
